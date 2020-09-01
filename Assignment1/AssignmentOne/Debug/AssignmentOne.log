@@ -1,0 +1,9 @@
+﻿  DAC06.cpp
+  MSIP404.cpp
+C:\Users\ted03\OneDrive\Desktop\MTRN3500\AssignmentOne\DAC06.h(5,10): error C1083:  Cannot open include file: 'sys/io.h': No such file or directory
+  PCM3718.cpp
+C:\Users\ted03\OneDrive\Desktop\MTRN3500\AssignmentOne\MSIP404.h(5,10): error C1083:  Cannot open include file: 'sys/io.h': No such file or directory
+  main.cpp
+C:\Users\ted03\OneDrive\Desktop\MTRN3500\AssignmentOne\PCM3718.h(5,10): error C1083:  Cannot open include file: 'sys/io.h': No such file or directory
+  Generating Code...
+C:\Users\ted03\OneDrive\Desktop\MTRN3500\AssignmentOne\PCM3718.h(5,10): error C1083:  Cannot open include file: 'sys/io.h': No such file or directory
